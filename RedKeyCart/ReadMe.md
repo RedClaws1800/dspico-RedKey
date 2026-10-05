@@ -28,3 +28,5 @@ Looking for C/C++ programmers, will pay
 Looking for ARM assembly programmers to hug and pay
 
 if you like my dumb writing style please feel free to read the Dev Log
+
+<3
