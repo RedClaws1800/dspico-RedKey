@@ -1,5 +1,18 @@
 ![DSpico-banner](dspico-artwork-design/others/banner2.png)
 
+## If you've found this then you probably know what the DSpico is
+
+## THIS IS A FORK FROM THE ORIGINAL PROJECT!!!
+(https://github.com/LNH-team/dspico-hardware)
+
+## The main purpose of this project:
+ Restore the traditional insertion of a game cartridge into the DS console and having the familiar *pop* of the game appearing on the home screen
+
+# THIS PROJECT IS STILL IN DEVELOPMENT 
+
+what follows is the original repo
+
+
 # DSpico Hardware
 ## 🗺️ Contents
 - [ℹ Introduction](#ℹ-introduction)
